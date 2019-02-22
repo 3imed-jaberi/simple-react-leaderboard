@@ -10,7 +10,7 @@
 /public/lib/w3
 
 # my firebase data config ..
-/src/config/imed-data-config.js
+#/src/config/imed-data-config.js
 
 # testing
 /coverage
