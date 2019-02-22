@@ -5,11 +5,19 @@
 /.pnp
 .pnp.js
 
+# local library
+/public/lib/materialize
+/public/lib/w3
+
+# my firebase data config ..
+/src/config/imed-data-config.js
+
 # testing
 /coverage
 
 # production
 /build
+/dist
 
 # misc
 .DS_Store
